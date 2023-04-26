@@ -1,0 +1,27 @@
+<div class="container">
+    <!-- heading with content -->
+    <div class="row">
+        <div class="col">
+            <h1 class="text-warning text-center m-4">View Your Note</h1>
+        </div>
+    </div>
+    <!-- form and image -->
+    <div class="container">
+        <div class="row">
+            <!-- form -->
+            <div class="col-6">
+                <ul class="list-group mt-5">
+                    <li class="list-group-item">Heading:{{note.heading}}</li>
+                    <li class="list-group-item">Date:{{note.date}}</li>
+                    <li class="list-group-item">Content:{{note.content}}</li>
+                    <li class="list-group-item">Category:{{groupName}}</li>
+                </ul>
+                <div class="button text-center"><a routerLink="/" class="btn btn-success my-4 w-25">Go Back</a></div> 
+            </div>
+            <div class="col-6">
+                <img class="img-icon " [src]="note.photo" alt="">
+            </div>
+        </div>
+    </div>
+</div>
+

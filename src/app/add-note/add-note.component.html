@@ -1,0 +1,32 @@
+<div class="container">
+    <!-- heading with content -->
+    <div class="row">
+        <div class="col">
+            <h1 class="text-warning text-center m-4">Create Your Note</h1>
+        </div>
+    </div>
+    <!-- form and image -->
+    <div class="container">
+        <div class="row">
+            <div class="col-6">
+                <form class="border border-2 p-5 rounded-5">
+                    <input [(ngModel)]="note.id" name="noteId" type="text" placeholder="Enter Note Id" class="form-control mb-2">
+                    <input [(ngModel)]="note.heading" name="noteHeading" type="text" placeholder="Enter Note Heading" class="form-control mb-2">
+                    <input [(ngModel)]="note.photo" name="notePhoto" type="text" placeholder="Enter Photo URL for notes" class="form-control mb-2">
+                    <input [(ngModel)]="note.date" name="noteDate" type="text" placeholder="Enter date of note" class="form-control mb-2">
+                    <textarea [(ngModel)]="note.content" name="noteContent" type="" placeholder="Enter content of note" class="form-control mb-2"></textarea>
+                    <select [(ngModel)]="note.groupId" name="Group" class="form-control mb-2">
+                        <option value=""selected hidden disabled>Select</option>
+                        <option value="{{group.id}}" *ngFor="let group of allGroups">{{group.name}}</option>
+                    </select>
+                    <input (click)="addNote()" type="button" value="Create" class="btn btn-success">
+                    <a routerLink="/" class="btn btn-danger mt-1" style="float: right;">Close</a>
+                </form>
+            </div>
+            <!-- image -->
+            <div class="col-6">
+                <img class="img-icon" [src]="note.photo" alt="">
+            </div>
+        </div>
+    </div>
+</div>

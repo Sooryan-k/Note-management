@@ -1,0 +1,30 @@
+/* .card{
+    height: 300px;
+    margin-bottom: 30px;
+} */
+/* h1{
+    font-size: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: linear-gradient(90deg, hsla(183, 62%, 45%, 1) 0%, hsla(41, 96%, 58%, 1) 100%);
+} */
+.card-body{
+    background-color: rgb(239, 239, 236);
+    border-radius: 30px;
+}
+.list-group-item{
+    background-color: rgb(223, 255, 127);
+    border: none;
+}
+.button{
+    margin-top: 70px;
+}
+.card{
+    box-shadow: 0 0 30px black;
+    height: 300px;
+    border-radius: 30px;
+    justify-content: space-evenly;
+}
+img{
+    margin-top: 15px;
+    border-radius: 20px;
+}

@@ -1,0 +1,50 @@
+{
+  "note": [
+    {
+      "id": "1",
+      "heading": "Trip to kochi",
+      "photo": "https://live.staticflickr.com/4392/36305362363_16cda7c950_k.jpg",
+      "date": "20-03-2023",
+      "content": "Today I arrived in Kochi, Kerala and I am already in love with this place. The city has such a rich history and culture that I can't wait to explore. I started my day by visiting the iconic Chinese fishing nets in Fort Kochi, which was a truly breathtaking sight. The nets are huge and beautifully crafted, and watching the fishermen haul in their catch was an experience in itself.\n\nAfter that, I took a stroll around the charming streets of Fort Kochi and was blown away by the colonial-era architecture and vibrant street art that lines the alleys. I stopped by the Jewish Synagogue, which is one of the oldest active synagogues in the world, and was amazed by its intricate carvings and colorful tiles.\n\nIn the evening, I headed to the Marine Drive, a scenic promenade that runs along the edge of the backwaters. The view was spectacular, with the sunset casting a golden glow over the water. I also indulged in some delicious seafood at one of the many local restaurants, and I must say, the fish curry was the best I've ever had.\n\nOverall, my first day in Kochi was a memorable one, and I can't wait to see what else this beautiful city has to offer.",
+      "groupId": "2"
+    },
+    {
+      "id": "2",
+      "heading": "Budget",
+      "photo": "https://www.moneycrashers.com/wp-content/uploads/2019/01/personal-budgeting-tips.jpg",
+      "date": "21-03-2023",
+      "content": "Income:\nMonthly salary: $3,500\nFreelance work: $500\nTotal income: $4,000\nExpenses:\nRent: $1,000\nUtilities (electricity, water, gas, internet, etc.): $200\nFood and groceries: $400\nTransportation (gas, public transportation, car insurance, etc.): $300\nEntertainment (movies, dining out, etc.): $200\nDebt repayment (credit card, student loans, etc.): $500\nSavings: $1,000\nTotal expenses: $3,600\n\nBudget goals:\nReduce debt by $200 per month\nIncrease emergency fund savings by $500 per month\nSave $500 per month for a vacation fund\nAllocate $200 per month for home improvement projects\nNotes:\nReview credit card statements regularly to ensure accuracy and identify any fraudulent charges\nConsider using cash instead of credit cards for discretionary spending to better manage and control expenses\nLook for ways to reduce utility costs, such as turning off lights and unplugging electronics when not in use\nUse a meal planning and grocery shopping list to save money on food and reduce waste\nConsider carpooling or using public transportation to save on transportation costs.",
+      "groupId": "3"
+    },
+    {
+      "id": "3",
+      "heading": "Trip to London",
+      "content": "Day 1:\n\nArrived in London and checked into our hotel in the Paddington area.\nExplored the neighborhood and had a traditional English pub dinner at a nearby restaurant.\nDay 2:\n\nStarted the day by visiting the British Museum, which was filled with amazing exhibits and artifacts.\nAfter the museum, we walked around Covent Garden, a bustling shopping and dining district with street performers and live music.\nEnded the day with a visit to the Tower Bridge, a stunning architectural masterpiece, and watched the sunset over the River Thames.\nDay 3:\n\nSpent the day at the iconic Buckingham Palace, watching the Changing of the Guard ceremony and exploring the palace grounds.\nWalked through Green Park and had a picnic lunch on the grass.\nVisited the nearby Hyde Park and rented bicycles to ride around the park and enjoy the beautiful scenery.\nDay 4:\n\nTook a day trip to nearby Windsor Castle, the oldest and largest inhabited castle in the world, and marveled at the grandeur and history of the place.\nReturned to London in the evening and visited the vibrant Camden Market, a bustling food and craft market with a great atmosphere.\nDay 5:\n\nExplored the trendy neighborhood of Shoreditch, known for its street art and alternative culture.\nVisited the Tower of London and learned about the history of the castle and its famous prisoners.\nEnded the day with a delicious dinner at a local restaurant and enjoyed the lively nightlife of the city.\nDay 6:\n\nPacked up and said goodbye to London, with memories of amazing sights, delicious food, and friendly locals",
+      "photo": "https://th.bing.com/th/id/R.88ebe07da965352e560e8c2fae10789b?rik=i1KSh1UwaNr91Q&riu=http%3a%2f%2fwallpapercave.com%2fwp%2ftKCaN8t.jpg&ehk=sf3cNLMFWg21TU5SK7C%2f4O3jL%2fO%2f4O8qxwo2%2bmJbMy8%3d&risl=&pid=ImgRaw&r=0",
+      "date": "10-02-2020",
+      "groupId": "2"
+    },
+    {
+      "id": "4",
+      "heading": "Trip to New york",
+      "photo": "https://www.qantas.com/content/dam/travelinsider/images/explore/north-america/usa/new-york/apps-to-download-before-you-go-to-new-york/GettyImages-1035114520.jpg",
+      "date": "10-10-2015",
+      "content": "Day 1:\n\nArrived in New York City and checked into our hotel in the Midtown area.\nExplored the bustling Times Square and took in the bright lights and energetic atmosphere.\nHad a delicious dinner at a local pizzeria and enjoyed some of the best pizza in the city.\nDay 2:\n\nStarted the day with a visit to the Empire State Building, which provided incredible views of the city from the top.\nWalked around Central Park, the iconic park in the heart of Manhattan, and enjoyed the beautiful scenery and vibrant energy.\nEnded the day with a Broadway show, a quintessential New York experience.\nDay 3:\n\nTook a ferry to the Statue of Liberty and Ellis Island, learning about the history of immigration and the statue's significance as a symbol of freedom and democracy.\nVisited the nearby 9/11 Memorial and Museum, a powerful tribute to the victims and heroes of the 9/11 attacks.\nEnded the day with a walk around the charming Greenwich Village, a historic neighborhood with picturesque streets and great food.\nDay 4:\n\nExplored the Metropolitan Museum of Art, one of the world's greatest art museums, and saw incredible exhibits from around the globe.\nVisited the nearby Central Park Zoo and enjoyed the amazing animal exhibits.\nEnded the day with dinner at a local restaurant, enjoying the diverse and delicious food options of the city.\nDay 5:\n\nTook a day trip to the nearby city of Brooklyn, visiting the Brooklyn Bridge, Brooklyn Museum, and Brooklyn Botanic Garden.\nReturned to Manhattan in the evening and enjoyed a walk around the High Line, a unique elevated park with great views of the city.\nDay 6:\n\nPacked up and said goodbye to New York City, with memories of amazing sights, incredible food, and unforgettable experiences.",
+      "groupId": "2"
+    }
+  ],
+  "group": [
+    {
+      "id": "1",
+      "name": "Normal Notes"
+    },
+    {
+      "id": "2",
+      "name": "Diary"
+    },
+    {
+      "id": "3",
+      "name": "Budget Notes"
+    }
+  ]
+}
