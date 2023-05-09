@@ -12,14 +12,15 @@
     border-radius: 30px;
 }
 .list-group-item{
-    background-color: rgb(223, 255, 127);
+    margin-top: 20px;
+    background-color: rgb(238, 255, 0);
     border: none;
 }
 .button{
-    margin-top: 70px;
+    margin-top: 50px;
 }
 .card{
-    box-shadow: 0 0 30px black;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
     height: 300px;
     border-radius: 30px;
     justify-content: space-evenly;
